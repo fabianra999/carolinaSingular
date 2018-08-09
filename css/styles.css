@@ -1,0 +1,37 @@
+/* Menu */
+@import 'navBar.css';
+@import 'layoutWork.css';
+@import 'about.css';
+
+
+
+.starter-template {
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  
+  /**
+  * Layout Home
+  **/
+  .layout__home #scene{
+    width: 100% !important;
+  }
+  
+  /**
+  * Layout work
+  **/
+  .layout__work{
+  
+  }
+  .layout__work .da-thumbs li a div img{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  
+    width: 100%;
+    max-width: 100px;
+  }
+
+
+
