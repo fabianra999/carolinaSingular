@@ -1,7 +1,8 @@
 /*
 
  */
-.item__overlay1  img {
+
+.item__overlay1 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -16,9 +17,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay1 {
     position: absolute;
     top: 0;
@@ -26,26 +29,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay1:hover, .item__overlay1:focus, .item__overlay1:active {
-    
-	background-color: rgba(91, 20, 60, 0.68);
-
+.item__overlay1:hover,
+.item__overlay1:focus,
+.item__overlay1:active {
+    background-color: rgba(91, 20, 60, 0.68);
 }
 
-
-
-.item__overlay1:focus > button, .item__overlay1:hover > button {
-    
-	opacity: 1;
+.item__overlay1:focus>button,
+.item__overlay1:hover>button {
+    opacity: 1;
 }
-.item__overlay2  img {
+
+.item__overlay2 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -60,9 +61,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay2 {
     position: absolute;
     top: 0;
@@ -70,27 +73,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay2:hover, .item__overlay2:focus, .item__overlay2:active {
-    
-	background-color: rgba(233, 173, 57, 0.68);
-
+.item__overlay2:hover,
+.item__overlay2:focus,
+.item__overlay2:active {
+    background-color: rgba(233, 173, 57, 0.68);
 }
 
-
-
-.item__overlay2:focus > button, .item__overlay2:hover > button {
-    
-	opacity: 1;
+.item__overlay2:focus>button,
+.item__overlay2:hover>button {
+    opacity: 1;
 }
 
-.item__overlay3  img {
+.item__overlay3 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -105,9 +105,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay3 {
     position: absolute;
     top: 0;
@@ -115,26 +117,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay3:hover, .item__overlay3:focus, .item__overlay3:active {
-    
-	background-color: rgba(255, 128, 0, 0.68);
-
+.item__overlay3:hover,
+.item__overlay3:focus,
+.item__overlay3:active {
+    background-color: rgba(255, 128, 0, 0.68);
 }
 
-
-
-.item__overlay3:focus > button, .item__overlay3:hover > button {
-    
-	opacity: 1;
+.item__overlay3:focus>button,
+.item__overlay3:hover>button {
+    opacity: 1;
 }
-.item__overlay4  img {
+
+.item__overlay4 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -149,9 +149,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay4 {
     position: absolute;
     top: 0;
@@ -159,27 +161,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay4:hover, .item__overlay4:focus, .item__overlay4:active {
-    
-	background-color: rgba(1, 200, 241, 0.68);
-
+.item__overlay4:hover,
+.item__overlay4:focus,
+.item__overlay4:active {
+    background-color: rgba(1, 200, 241, 0.68);
 }
 
-
-
-.item__overlay4:focus > button, .item__overlay4:hover > button {
-    
-	opacity: 1;
+.item__overlay4:focus>button,
+.item__overlay4:hover>button {
+    opacity: 1;
 }
 
-.item__overlay5  img {
+.item__overlay5 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -194,9 +193,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay5 {
     position: absolute;
     top: 0;
@@ -204,26 +205,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay5:hover, .item__overlay5:focus, .item__overlay5:active {
-    
-	background-color: rgba(0, 76, 211, 0.68);
-
+.item__overlay5:hover,
+.item__overlay5:focus,
+.item__overlay5:active {
+    background-color: rgba(0, 76, 211, 0.68);
 }
 
-
-
-.item__overlay5:focus > button, .item__overlay5:hover > button {
-    
-	opacity: 1;
+.item__overlay5:focus>button,
+.item__overlay5:hover>button {
+    opacity: 1;
 }
-.item__overlay6  img {
+
+.item__overlay6 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -238,9 +237,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay6 {
     position: absolute;
     top: 0;
@@ -248,26 +249,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay6:hover, .item__overlay6:focus, .item__overlay6:active {
-    
-	background-color: rgba(199, 54, 97, 0.68);
-
+.item__overlay6:hover,
+.item__overlay6:focus,
+.item__overlay6:active {
+    background-color: rgba(199, 54, 97, 0.68);
 }
 
-
-
-.item__overlay6:focus > button, .item__overlay6:hover > button {
-    
-	opacity: 1;
+.item__overlay6:focus>button,
+.item__overlay6:hover>button {
+    opacity: 1;
 }
-.item__overlay7  img {
+
+.item__overlay7 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -282,9 +281,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay7 {
     position: absolute;
     top: 0;
@@ -292,26 +293,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay7:hover, .item__overlay7:focus, .item__overlay7:active {
-    
-	background-color: rgba(213, 55, 51, 0.68);
-
+.item__overlay7:hover,
+.item__overlay7:focus,
+.item__overlay7:active {
+    background-color: rgba(213, 55, 51, 0.68);
 }
 
-
-
-.item__overlay7:focus > button, .item__overlay7:hover > button {
-    
-	opacity: 1;
+.item__overlay7:focus>button,
+.item__overlay7:hover>button {
+    opacity: 1;
 }
-.item__overlay8  img {
+
+.item__overlay8 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -326,9 +325,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay8 {
     position: absolute;
     top: 0;
@@ -336,27 +337,24 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay8:hover, .item__overlay8:focus, .item__overlay8:active {
-    
-	background-color: rgba(144, 184, 86, 0.68);
-
+.item__overlay8:hover,
+.item__overlay8:focus,
+.item__overlay8:active {
+    background-color: rgba(144, 184, 86, 0.68);
 }
 
-
-
-.item__overlay8:focus > button, .item__overlay8:hover > button {
-    
-	opacity: 1;
+.item__overlay8:focus>button,
+.item__overlay8:hover>button {
+    opacity: 1;
 }
 
-.item__overlay9  img {
+.item__overlay9 img {
     position: absolute;
     top: 50%;
     left: 50%;
@@ -371,9 +369,11 @@
     opacity: 1;
 }
 
+
 /**
  * Grid styles
  */
+
 .item__overlay9 {
     position: absolute;
     top: 0;
@@ -381,34 +381,22 @@
     width: 100%;
     height: 100%;
     background-color: rgba(17, 17, 17, 0);
-	-webkit-transition: background-color .55s ease-in-out;
+    -webkit-transition: background-color .55s ease-in-out;
     -moz-transition: background-color .55s ease-in-out;
     -ms-transition: background-color .55s ease-in-out;
     transition: background-color .55s ease-in-out;
-	
 }
 
-.item__overlay9:hover, .item__overlay9:focus, .item__overlay9:active {
-    
-	background-color: rgba(0, 196, 150, 0.68);
-
+.item__overlay9:hover,
+.item__overlay9:focus,
+.item__overlay9:active {
+    background-color: rgba(0, 196, 150, 0.68);
 }
 
-
-
-.item__overlay9:focus > button, .item__overlay9:hover > button {
-    
-	opacity: 1;
+.item__overlay9:focus>button,
+.item__overlay9:hover>button {
+    opacity: 1;
 }
-
-
-
-
-
-
-
-
-
 
 .grid__sizer,
 .grid__item {
@@ -434,15 +422,151 @@ img {
     height: auto;
 }
 
-.layout__work{
-	padding: 3%;
+.layout__work {
+    padding: 3%;
 }
 
-.layout__about{
-	padding: 3%;
+.layout__about {
+    padding: 3%;
 }
 
-.layout__contact{
-	padding: 3%;
+.layout__contact {
+    padding: 3%;
 }
 
+
+/**
+* carousel getbootstrap 
+*   9-Agosto-2018
+**/
+
+.testtt {
+    position: absolute;
+    top: 20%;
+    right: 0;
+    transform: rotate(90deg);
+}
+
+.carousel-control-prev,
+.carousel-control-next {
+    display: inline-block;
+    width: auto;
+    position: relative;
+    left: 0;
+    top: 0;
+    margin-right: 15px;
+}
+
+.carousel-control-prev span,
+.carousel-control-next span {
+    color: black;
+    font-weight: 600;
+}
+
+.carousel-control-prev::before,
+.carousel-control-next::before {
+    content: " ";
+    position: absolute;
+    width: 0%;
+    height: 2px;
+    background: #000;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    transition: width 0.2s linear;
+}
+
+
+/**
+* Hover
+**/
+
+.carousel-control-prev:hover::before,
+.carousel-control-next:hover::before {
+    width: 100%;
+}
+
+
+/**
+*
+**/
+
+.carousel-item {
+    opacity: 0;
+}
+
+.carousel-item.active {
+    -webkit-animation-duration: 1s;
+    animation-duration: 1s;
+    -webkit-animation-fill-mode: both;
+    animation-fill-mode: both;
+    -webkit-animation-name: bounceInDown;
+    animation-name: bounceInDown;
+    opacity: 1;
+}
+
+@-webkit-keyframes bounceInDown {
+    from,
+    60%,
+    75%,
+    90%,
+    to {
+        -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -3000px, 0);
+        transform: translate3d(0, -3000px, 0);
+    }
+    60% {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 25px, 0);
+        transform: translate3d(0, 25px, 0);
+    }
+    75% {
+        -webkit-transform: translate3d(0, -10px, 0);
+        transform: translate3d(0, -10px, 0);
+    }
+    90% {
+        -webkit-transform: translate3d(0, 5px, 0);
+        transform: translate3d(0, 5px, 0);
+    }
+    to {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+@keyframes bounceInDown {
+    from,
+    60%,
+    75%,
+    90%,
+    to {
+        -webkit-animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+        animation-timing-function: cubic-bezier(0.215, 0.61, 0.355, 1);
+    }
+    0% {
+        opacity: 0;
+        -webkit-transform: translate3d(0, -3000px, 0);
+        transform: translate3d(0, -3000px, 0);
+    }
+    60% {
+        opacity: 1;
+        -webkit-transform: translate3d(0, 25px, 0);
+        transform: translate3d(0, 25px, 0);
+    }
+    75% {
+        -webkit-transform: translate3d(0, -10px, 0);
+        transform: translate3d(0, -10px, 0);
+    }
+    90% {
+        -webkit-transform: translate3d(0, 5px, 0);
+        transform: translate3d(0, 5px, 0);
+    }
+    to {
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+    }
+}
