@@ -239,21 +239,21 @@
             <div class="container">
                 <div class="row">
                     <div class="col-12 col-sm-12">
-                        <form>
+                        <form id="ajax-contact" method="post" action="contact.php" data-toggle="validator">
                             <div class="field name-box">
-                                <input type="text" id="name" placeholder="Who Are You?" />
+                                <input type="text" id="name" name="fName" placeholder="Who Are You?" />
                                 <label for="name">Name</label>
                                 <span class="ss-icon">check</span>
                             </div>
 
                             <div class="field email-box">
-                                <input type="text" id="email" placeholder="name@email.com" />
+                                <input type="text" id="email" name="fEmail" placeholder="name@email.com" />
                                 <label for="email">Email</label>
                                 <span class="ss-icon">check</span>
                             </div>
 
                             <div class="field msg-box">
-                                <textarea id="msg" rows="4" placeholder="Your message goes here..." /></textarea>
+                                <textarea id="msg" rows="4" name="fMensaje" placeholder="Your message goes here..." /></textarea>
                                 <label for="msg">Msg</label>
                                 <span class="ss-icon">check</span>
                             </div>
